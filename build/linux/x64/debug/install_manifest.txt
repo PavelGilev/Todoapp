@@ -1,0 +1,13 @@
+/home/pavel/university/mobilapp/app1/flutter_application_1/build/linux/x64/debug/bundle/flutter_application_1
+/home/pavel/university/mobilapp/app1/flutter_application_1/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/pavel/university/mobilapp/app1/flutter_application_1/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/pavel/university/mobilapp/app1/flutter_application_1/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/pavel/university/mobilapp/app1/flutter_application_1/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/pavel/university/mobilapp/app1/flutter_application_1/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/pavel/university/mobilapp/app1/flutter_application_1/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/pavel/university/mobilapp/app1/flutter_application_1/build/linux/x64/debug/bundle/data/flutter_assets/NativeAssetsManifest.json
+/home/pavel/university/mobilapp/app1/flutter_application_1/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/pavel/university/mobilapp/app1/flutter_application_1/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/pavel/university/mobilapp/app1/flutter_application_1/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/pavel/university/mobilapp/app1/flutter_application_1/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/pavel/university/mobilapp/app1/flutter_application_1/build/linux/x64/debug/bundle/data/flutter_assets/shaders/stretch_effect.frag
